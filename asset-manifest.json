@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/minerva-webpage/static/css/main.24d123b2.css",
+    "main.js": "/minerva-webpage/static/js/main.11ed857d.js",
+    "static/js/787.16e83994.chunk.js": "/minerva-webpage/static/js/787.16e83994.chunk.js",
+    "static/media/placeholder-image.jpg": "/minerva-webpage/static/media/placeholder-image.6cf642a92f48e14ce5a7.jpg",
+    "static/media/logo.svg": "/minerva-webpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/minerva-webpage/index.html",
+    "main.24d123b2.css.map": "/minerva-webpage/static/css/main.24d123b2.css.map",
+    "main.11ed857d.js.map": "/minerva-webpage/static/js/main.11ed857d.js.map",
+    "787.16e83994.chunk.js.map": "/minerva-webpage/static/js/787.16e83994.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24d123b2.css",
+    "static/js/main.11ed857d.js"
+  ]
+}
